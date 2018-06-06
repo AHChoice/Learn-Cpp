@@ -16,6 +16,6 @@ int main()
 	string_append::append();
 	string_insert::insert();
 	string_replace::replace();
-
+	//
 	return 0;
 }
